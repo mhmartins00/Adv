@@ -2,3 +2,6 @@ dotnet watch run --roda aplicação sem precisar parar para salvar
 dotnet build --realiza build na aplicação
 dotnet EF migrations add <nome_arquivo> -- CriaMigration
 dotnet EF database update -- CriaMigration
+
+
+npm i --save bootstrap @fortawesome/fontawesome-free -- Instalar bootstrap e fontawesome
